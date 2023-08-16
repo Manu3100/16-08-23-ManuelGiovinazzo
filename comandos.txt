@@ -1,0 +1,11 @@
+ 1 git add .
+   2 git status
+   3 git commit -m 'commit 01 de Manuel Giovinazzo'
+   4 git push origin main
+   5 git status
+   6 git branch feature
+   7 git checkout feature
+   8 git add .
+   9 git commit -m 'commit 02 de Manuel Giovinazzo'
+  10 git push origin feature
+  11 git checkout main
